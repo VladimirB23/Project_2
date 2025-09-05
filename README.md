@@ -75,7 +75,9 @@ b.	за год
 
 ## 🔗 Связанные артефакты
 
-- 📑 [Дашборд в DataLens]([[ссылка_на_дашборд](https://datalens.yandex/33aukc9gsjrso)])
+- 📑 [Дашборд в DataLens](https://datalens.yandex/33aukc9gsjrso)\
+- [Отчет по пролонгациив Google Sheet](https://docs.google.com/spreadsheets/d/1ZSZJRzW38sh-X-jFdil7upw5bUK3yGVawjznezULHzQ/edit?usp=sharing)
+- [Сам проект в Colab](https://colab.research.google.com/drive/1Z3qZNNH9TkKPTqIge7_1jwOtbsze6TQq?usp=sharing)
 
 ---
 
